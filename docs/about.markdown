@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>Hi! I'm Jonathan Andersen, and this is my webpage for CMSC 447. <a href="https://my.umbc.edu/"> my.umbc.edu</a></p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p>I am a senior at UMBC, studing Computer Science and Emergency Health Services. 
+    I am CPR/AED certified, Individual and Group Crisis Intervention and Management certified, and have 7 years experience in Outdoor Education.
+    Check out my Resume <a href="https://tidesinger.github.io/docs/JMAT-Resume-1-24.pdf">here</a></p>
+</p>
