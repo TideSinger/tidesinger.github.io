@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my prototype website for CMSC 447, built using Jekyll and hosted on Github pages!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: umbccyberdawgs
 github_username:  TideSinger
 
 # Build settings
